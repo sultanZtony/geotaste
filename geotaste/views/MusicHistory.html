@@ -1,0 +1,23 @@
+
+<html>
+<head>
+  <script src="../resources/scripts/SpotifyHistory Scripts/App.js"></script>
+  <script src="../resources/scripts/SpotifyHistory Scripts/authorizeSpotify.js"></script>
+  <script src="../resources/scripts/SpotifyHistory Scripts/credentials.js"></script>
+  <script src="../resources/scripts/SpotifyHistory Scripts/getAccessToken.js"></script>
+  <script src="../resources/scripts/SpotifyHistory Scripts/getRecentlyPlayed.js"></script>
+  <script src="../resources/scripts/SpotifyHistory Scripts/variables.env"></script>
+
+</head>
+<body>
+    <div className="App">
+        <header className="header">
+          <h1>Spotify Listening History</h1>
+          <p>View your music history in realtime with Spotify</p>
+
+          {connectSpotify}
+          {musicHistory.length !== 0 ? <RecentlyPlayed /> : null}
+        </header>
+      </div>
+</body>
+</html>

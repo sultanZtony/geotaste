@@ -1,0 +1,10 @@
+﻿https://www.discogs.com/developers/#page:authentication – steps on authenticating our app with the discogs api. 
+
+https://www.discogs.com/developers/#page:database,header:database-search – the search function of the discog api will allow us to search through and filter data very specifically. It looks like we will easily be able to filter by country, which is the main feature of the site, then do user generated filters for genre, style, year, label, artist, etc. 
+
+https://github.com/bartve/disconnect - NodeJS discog api wrapper
+https://npm.io/package/disconnect
+
+https://www.discogs.com/developers/#page:home,header:home-quickstart – discog wrappers based upon chosen language if we choose not to use NodeJS. 
+
+This week I looked into the discog API to see how we could filter the music catalog. Along with that, I started learning how to implement the API with Nodejs, or potential php. The links above that I saved will definitely be needed later when we integrate the API and learning how to get it to do what we want (i.e., search function).

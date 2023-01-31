@@ -1,0 +1,1 @@
+This week I continued work on the Figma wireframe, and began to look into aspects of the Discogs API I will be using to implement my user stories.

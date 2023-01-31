@@ -1,0 +1,11 @@
+This week I searched about Spotify API’s and how to preview 30 seconds of any song and I found interesting results. Also, I found which API and tag to use. I included that in Project Milestone 2. 
+Spotify Music Preview:
+
+Spotify has provided developers with diffrent API's. One of them called Get a track. https://developer.spotify.com/console/get-track/
+
+We can find a preview_url tag and it contains a URL that leads to a 30s preview audio. The advantage of using this method is it will not require any login process. The problem here it will not work for any URL. We need to keep in mind that not all tracks have 30 seconds previews. So, we should code our website with assumption that not all tracks are accessible by preview_url.
+
+Example of how it will look like after we apply the preview_url:
+
+https://p.scdn.co/mp3-preview/104ad0ea32356b9f3b2e95a8610f504c90b0026b?cid=8897482848704f2a8f8d7c79726a70d4
+

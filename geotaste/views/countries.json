@@ -1,0 +1,1239 @@
+{
+    "countries": [
+        {
+            "country" : "United States of America",
+            "photo" : "unitedstates.png",
+            "description" : "The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America.",
+            "url" : "/unitedstates"
+        },
+
+        {
+            "country" : "Canada",
+            "photo" : "canada.png",
+            "description" : "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean.",
+            "url" : "/canada"
+        },
+
+        {
+            "country" : "Mexico",
+            "photo" : "mexico.png",
+            "description" : "Mexico, officially the United Mexican States, is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico.",
+            "url" : "/mexico"
+        },
+
+        {
+            "country" : "Greenland",
+            "photo" : "greenland.png",
+            "description" : "Greenland is the world's largest island, located between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago. Greenland is an autonomous territory within the Danish Realm.",
+            "url" : "/greenland"
+        },
+
+        {
+            "country" : "Guatemala",
+            "photo" : "guatemala.png",
+            "description" : "Guatemala, officially the Republic of Guatemala, is a country in Central America bordered by Mexico to the north and west, Belize and the Caribbean to the northeast, Honduras to the east, El Salvador to the southeast and the Pacific Ocean to the south.",
+            "url" : "/guatemala"
+        },
+
+        {
+            "country" : "Belize",
+            "photo" : "belize.png",
+            "description" : "Belize is a Caribbean country located on the northeastern coast of Central America. Belize is bordered to the north by Mexico, to the east by the Caribbean Sea, and to the south and west by Guatemala.",
+            "url" : "/belize"
+        },
+
+        {
+            "country" : "United Arab Emirates",
+            "photo" : "unitedarabemirates.png",
+            "description" : "The United Arab Emirates or the Emirates, is a country in Western Asia located at the eastern end of the Arabian Peninsula. It borders Oman and Saudi Arabia, and has maritime borders in the Persian Gulf with Qatar and Iran.",
+            "url" : "/unitedarabemirates"
+        },
+
+        {
+            "country" : "Afghanistan",
+            "photo" : "afghanistan.png",
+            "description" : "Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country at the crossroads of Central and South Asia. It is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan and Uzbekistan to the north, and Tajikistan and China to the northeast.",
+            "url" : "/afghanistan"
+        },
+
+        {
+            "country" : "Albania",
+            "photo" : "albania.png",
+            "description" : "Albania, officially the Republic of Albania, is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east, Greece to the south; and maritime borders with Greece, Montenegro and Italy to the west.",
+            "url" : "/albania"
+        },
+
+        {
+            "country" : "Angola",
+            "photo" : "angola.png",
+            "description" : "Angola, officially the Republic of Angola, is a country on the west coast of Southern Africa. It is the second-largest Lusophone country in both total area and population, and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west.",
+            "url" : "/angola"
+        },
+
+        {
+            "country" : "Argentina",
+            "photo" : "argentina.png",
+            "description" : "Argentina, officially the Argentine Republic, is a country in the southern half of South America. It shares the bulk of the Southern Cone with Chile to the west, and is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south.",
+            "url" : "/argentina"
+        },
+
+        {
+            "country" : "Austria",
+            "photo" : "austria.png",
+            "description" : "Austria, officially the Republic of Austria, is a landlocked East Alpine country in the southern part of Central Europe. It is composed of nine federated states, one of which is Vienna, Austria's capital and largest city.",
+            "url" : "/austria"
+        },
+
+        {
+            "country" : "Australia",
+            "photo" : "australia.png",
+            "description" : "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country by area in Oceania and the world's sixth-largest country.",
+            "url" : "/australia"
+        },
+
+        {
+            "country" : "Azerbaidjan",
+            "photo" : "azerbaidjan.png",
+            "description" : "Azerbaijan, officially the Republic of Azerbaijan, is a country located at the boundary of Eastern Europe and Western Asia. It is a part of the South Caucasus region, and is bounded by the Caspian Sea to the east, Russia to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south.",
+            "url" : "/azerbaidjan"
+        },
+
+        {
+            "country" : "Bosnia-Herzegovina",
+            "photo" : "bosnia-herzegovina.png",
+            "description" : "Bosnia and Herzegovina, abbreviated BiH or B&H, sometimes called Bosnia–Herzegovina and often known informally as Bosnia, is a country at the crossroads of south and southeast Europe, located in the Balkans. The capital and largest city is Sarajevo.",
+            "url" : "/bosniaherzegovina"
+        },
+
+        {
+            "country" : "Bangladesh",
+            "photo" : "bangladesh.png",
+            "description" : "Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. It is the eighth-most populous country in the world, with a population exceeding 163 million people, in an area of 148,560 square kilometres, making it one of the most densely populated countries in the world.",
+            "url" : "/bangladesh"
+        },
+
+        {
+            "country" : "Belgium",
+            "photo" : "belgium.png",
+            "description" : "Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest.",
+            "url" : "/belgium"
+        },
+
+        {
+            "country" : "Burkina Faso",
+            "photo" : "burkinafaso.png",
+            "description" : "Burkina Faso is a landlocked country in West Africa that covers an area of around 274,200 square kilometres and is bordered by Mali to the northwest, Niger to the northeast, Benin to the southeast, Togo and Ghana to the south, and the Ivory Coast to the southwest.",
+            "url" : "/burkinafaso"
+        },
+
+        {
+            "country" : "Bulgaria",
+            "photo" : "bulgaria.png",
+            "description" : "Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. It lies on the eastern flank of the Balkans, and is bordered by Romania to the north, Serbia and North Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east.",
+            "url" : "/bulgaria"
+        },
+
+        {
+            "country" : "Bahrain",
+            "photo" : "bahrain.png",
+            "description" : "Bahrain, officially the Kingdom of Bahrain, is a country in the Persian Gulf. The island nation comprises a small archipelago made up of 50 natural islands and an additional 33 artificial islands, centered around Bahrain Island which makes up around 83 percent of the country's landmass.",
+            "url" : "/bahrain"
+        },
+
+        {
+            "country" : "Burundi",
+            "photo" : "burundi.png",
+            "description" : "Burundi, officially the Republic of Burundi, is a landlocked country in the Great Rift Valley where the African Great Lakes region and East Africa converge. It is bordered by Rwanda to the north, Tanzania to the east and southeast, and the Democratic Republic of the Congo to the west; Lake Tanganyika lies along its southwestern border.",
+            "url" : "/burundi"
+        },
+
+        {
+            "country" : "Benin",
+            "photo" : "benin.png",
+            "description" : "Benin, officially the Republic of Benin, is a country in West Africa. It is bordered by Togo to the west, Nigeria to the east, Burkina Faso to the north-west, and Niger to the north-east. The majority of its population lives on the small southern coastline of the Bight of Benin, part of the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean.",
+            "url" : "/benin"
+        },
+
+        {
+            "country" : "Brunei Darussalam",
+            "photo" : "bruneidarussalam.png",
+            "description" : "Brunei, officially the Nation of Brunei, the Abode of Peace and also commonly known as Brunei Darussalam, is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak.",
+            "url" : "/bruneidarussalam"
+        },
+
+        {
+            "country" : "Bolivia",
+            "photo" : "bolivia.png",
+            "description" : "Bolivia, officially the Plurinational State of Bolivia, is a landlocked country located in western-central South America. The constitutional capital is Sucre, while the seat of government and executive capital is La Paz.",
+            "url" : "/bolivia"
+        },
+
+        {
+            "country" : "Brazil",
+            "photo" : "brazil.png",
+            "description" : "Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers and with over 211 million people, Brazil is the world's fifth-largest country by area and the sixth most populous.",
+            "url" : "/brazil"
+        },
+
+        {
+            "country" : "Bahamas",
+            "photo" : "bahamas.png",
+            "description" : "The Bahamas, officially as the Commonwealth of The Bahamas, is a country within the Lucayan Archipelago of the West Indies in the Atlantic. It takes up 97% of the Lucayan Archipelago's land area and is home to 88% of the archipelago's population.",
+            "url" : "/bahamas"
+        },
+
+        {
+            "country" : "Bhutan",
+            "photo" : "bhutan.png",
+            "description" : "Bhutan, officially known as the Kingdom of Bhutan, is a landlocked country in the Eastern Himalayas. It is bordered by China to the north and India to the south, east and west. Nepal and Bangladesh are located in proximity to Bhutan but do not share a land border.",
+            "url" : "/bhutan"
+        },
+
+        {
+            "country" : "Botswana",
+            "photo" : "botswana.png",
+            "description" : "Botswana, officially the Republic of Botswana, is a landlocked country in Southern Africa. Botswana is topographically flat, with up to 70 percent of its territory being the Kalahari Desert. It is bordered by South Africa to the south and southeast, Namibia to the west and north, and Zimbabwe to the northeast.",
+            "url" : "/botswana"
+        },
+
+        {
+            "country" : "Belarus",
+            "photo" : "belarus.png",
+            "description" : "Belarus, officially the Republic of Belarus, and historically Byelorussia, is a landlocked country in Eastern Europe. It is bordered by Russia to the east and northeast, Ukraine to the south, Poland to the west, and Lithuania and Latvia to the northwest.",
+            "url" : "/belarus"
+        },
+
+        {
+            "country" : "Congo",
+            "photo" : "congo.png",
+            "description" : "The Democratic Republic of the Congo, also known as Congo-Kinshasa, DR Congo, the DRC, the DROC, or simply either Congo or the Congo, and formerly Zaire, is a country in Central Africa. It is, by area, the largest country in sub-Saharan Africa, the second-largest in all of Africa, and the 11th-largest in the world.",
+            "url" : "/congo"
+        },
+
+        {
+            "country" : "Switzerland",
+            "photo" : "switzerland.png",
+            "description" : "Switzerland, officially the Swiss Confederation, is a landlocked country at the confluence of Western, Central and Southern Europe. It is a federal republic composed of 26 cantons, with federal authorities based in Bern. Switzerland is bordered by Italy to the south, France to the west, Germany to the north and Austria and Liechtenstein to the east.",
+            "url" : "/switzerland"
+        },
+
+        {
+            "country" : "Central African Republic",
+            "photo" : "centralafricanrepublic.png",
+            "description" : "The Central African Republic is a landlocked country in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the southeast, the DR Congo to the south, the Republic of the Congo to the southwest, and Cameroon to the west.",
+            "url" : "/centralafricanrepublic"
+        },
+
+        {
+            "country" : "Ivory Coast",
+            "photo" : "ivorycoast.png",
+            "description" : "Ivory Coast, also known as Côte d'Ivoire, officially the Republic of Côte d'Ivoire, is a country located on the south coast of West Africa. Côte d'Ivoire's political capital is Yamoussoukro in the centre of the country, while its economic capital and largest city is the port city of Abidjan.",
+            "url" : "/ivorycoast"
+        },
+
+        {
+            "country" : "Chile",
+            "photo" : "chile.png",
+            "description" : "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres, with a population of 17.5 million as of 2017.",
+            "url" : "/chile"
+        },
+
+        {
+            "country" : "Cameroon",
+            "photo" : "cameroon.png",
+            "description" : "Cameroon, officially the Republic of Cameroon, is a country in west-central Africa. It is bordered by Nigeria to the west and north; Chad to the northeast; the Central African Republic to the east; and Equatorial Guinea, Gabon and the Republic of the Congo to the south.",
+            "url" : "/cameroon"
+        },
+
+        {
+            "country" : "China",
+            "photo" : "china.png",
+            "description" : "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of more than 1.4 billion. China follows a single standard time offset of UTC+08:00 even though it spans five geographical time zones and borders 14 countries, the second most of any country in the world after Russia.",
+            "url" : "/china"
+        },
+
+        {
+            "country" : "Colombia",
+            "photo" : "colombia.png",
+            "description" : "Colombia, officially the Republic of Colombia, is a country in South America. It is bounded on the north by the Caribbean Sea, the northwest by Panama, the south by Ecuador and Peru, the east by Venezuela, the southeast by Brazil, and the west by the Pacific Ocean.",
+            "url" : "/colombia"
+        },
+
+        {
+            "country" : "Costa Rica",
+            "photo" : "costarica.png",
+            "description" : "Costa Rica, officially the Republic of Costa Rica, is a country in Central America, bordered by Nicaragua to the north, the Caribbean Sea to the northeast, Panama to the southeast, the Pacific Ocean to the southwest, and Ecuador to the south of Cocos Island.",
+            "url" : "/costarica"
+        },
+
+        {
+            "country" : "Cuba",
+            "photo" : "cuba.png",
+            "description" : "Cuba, officially the Republic of Cuba, is a country comprising the island of Cuba, as well as Isla de la Juventud and several minor archipelagos. Cuba is located where the northern Caribbean Sea, Gulf of Mexico, and Atlantic Ocean meet.",
+            "url" : "/cuba"
+        },
+
+        {
+            "country" : "Cape Verde",
+            "photo" : "capeverde.png",
+            "description" : "Cape Verde or Cabo Verde, officially the Republic of Cabo Verde, is an archipelago and island country in the central Atlantic Ocean, consisting of ten volcanic islands with a combined land area of about 4,033 square kilometres. These islands lie between 600 to 850 kilometres west of Cap-Vert situated at the westernmost point of continental Africa.",
+            "url" : "/capeverde"
+        },
+
+        {
+            "country" : "Cyprus",
+            "photo" : "cyprus.png",
+            "description" : "Cyprus, officially called the Republic of Cyprus, is an island country in the eastern Mediterranean Sea. It is the third largest and third most populous island in the Mediterranean, and is located south of Turkey; west of Syria; northwest of the Gaza Strip, Israel, and Lebanon; north of Egypt; and southeast of Greece.",
+            "url" : "/cyprus"
+        },
+
+        {
+            "country" : "Czech Republic",
+            "photo" : "czechrepublic.png",
+            "description" : "The Czech Republic, also known by its short-form name Czechia and formerly known as Bohemia, is a landlocked country in Central Europe. It is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the east.",
+            "url" : "/czechrepublic"
+        },
+
+        {
+            "country" : "Germany",
+            "photo" : "germany.png",
+            "description" : "Germany, officially the Federal Republic of Germany, is a country in Central Europe. It is the second-most populous country in Europe after Russia, and the most populous member state of the European Union.",
+            "url" : "/germany"
+        },
+
+
+        {
+            "country" : "Djibouti",
+            "photo" : "djibouti.png",
+            "description" : "Djibouti, officially the Republic of Djibouti, is a country located in the Horn of Africa. It is bordered by Somaliland in the south, Ethiopia in the southwest, Eritrea in the north, and the Red Sea and the Gulf of Aden in the east. Across the Gulf of Aden is Yemen. The country has a total area of 23,200 km².",
+            "url" : "/djibouti"
+        },
+
+
+        {
+            "country" : "Denmark",
+            "photo" : "denmark.png",
+            "description" : "Denmark is a Nordic country in Northern Europe. European Denmark, which is the southernmost of the Scandinavian countries, consists of a peninsula, Jutland, and an archipelago of 443 named islands, with the largest being Zealand, Funen and the North Jutlandic Island.",
+            "url" : "/denmark"
+        },
+
+
+        {
+            "country" : "Dominican Republic",
+            "photo" : "dominicanrepublic.png",
+            "description" : "The Dominican Republic is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean region. It occupies the eastern five-eighths of the island, which it shares with Haiti, making Hispaniola one of only two Caribbean islands, along with Saint Martin, that is shared by two sovereign states.",
+            "url" : "/dominicanrepublic"
+        },
+
+
+        {
+            "country" : "Algeria",
+            "photo" : "algeria.png",
+            "description" : "Algeria, officially the People's Democratic Republic of Algeria, is a country in the Maghreb region of North Africa. It is the largest country by total area in Africa, and by extension, the Arab world, and is bordered to the northeast by Tunisia; to the east by Libya; to the southeast by Niger; to the southwest by Mali, Mauritania, and Western Sahara; to the west by Morocco; and to the north by the Mediterranean Sea.",
+            "url" : "/algeria"
+        },
+
+
+        {
+            "country" : "Ecuador",
+            "photo" : "ecuador.png",
+            "description" : "Ecuador, officially the Republic of Ecuador, is a country in northwestern South America, bordered by Colombia on the north, Peru on the east and south, and the Pacific Ocean on the west. Ecuador also includes the Galápagos Islands in the Pacific, about 1,000 kilometres west of the mainland.",
+            "url" : "/ecuador"
+        },
+
+        {
+            "country" : "Estonia",
+            "photo" : "estonia.png",
+            "description" : "Estonia, officially the Republic of Estonia, is a country in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia.",
+            "url" : "/estonia"
+        },
+
+
+        {
+            "country" : "Egypt",
+            "photo" : "egypt.png",
+            "description" : "Egypt, officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and southwest corner of Asia by a land bridge formed by the Sinai Peninsula. Egypt is a Mediterranean country bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba and the Red Sea to the east, Sudan to the south, and Libya to the west.",
+            "url" : "/egypt"
+        },
+
+
+        {
+            "country" : "Western Sahara",
+            "photo" : "westernsahara.png",
+            "description" : "Western Sahara is a disputed territory on the northwest coast and in the Maghreb region of North and West Africa. About 20% of the territory is controlled by the self-proclaimed Sahrawi Arab Democratic Republic, while the remaining 80% of the territory is occupied and administered by neighboring Morocco.",
+            "url" : "/westernsahara"
+        },
+
+
+        {
+            "country" : "Eritrea",
+            "photo" : "eritrea.png",
+            "description" : "Eritrea, officially the State of Eritrea, is a country in the Horn of Africa region of Eastern Africa, with its capital at Asmara. It is bordered by Ethiopia in the south, Sudan in the west, and Djibouti in the southeast. The northeastern and eastern parts of Eritrea have an extensive coastline along the Red Sea.",
+            "url" : "/eritrea"
+        },
+
+
+        {
+            "country" : "Spain",
+            "photo" : "spain.png",
+            "description" : "Spain, formally the Kingdom of Spain, is a country in Southwestern Europe with some pockets of territory in the Mediterranean Sea, offshore in the Atlantic Ocean and across the Strait of Gibraltar.",
+            "url" : "/spain"
+        },
+
+
+        {
+            "country" : "Ethiopia",
+            "photo" : "ethiopia.png",
+            "description" : "Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country in the Horn of Africa. It shares borders with Eritrea and Djibouti to the north, Somaliland to the northeast, Somalia to the east, Kenya to the south, South Sudan to the west and Sudan to the northwest.",
+            "url" : "/ethiopia"
+        },
+
+        {
+            "country" : "Finland",
+            "photo" : "finland.png",
+            "description" : "Finland, officially the Republic of Finland, is a Nordic country in Northern Europe. It shares land borders with Sweden to the west, Russia to the east, Norway to the north, and is defined by the Gulf of Bothnia to the west, and the Gulf of Finland of the Baltic Sea across Estonia to the south.",
+            "url" : "/finland"
+        },
+
+
+        {
+            "country" : "Fiji",
+            "photo" : "fiji.png",
+            "description" : "Fiji, officially the Republic of Fiji, is an island country in Melanesia, part of Oceania in the South Pacific Ocean. It lies about 1,100 nautical miles northeast of New Zealand. Fiji consists of an archipelago of more than 330 islands—of which about 110 are permanently inhabited—and more than 500 islets, amounting to a total land area of about 18,300 square kilometres.",
+            "url" : "/fiji"
+        },
+
+
+        {
+            "country" : "Falkland Islands",
+            "photo" : "falklandislands.png",
+            "description" : "The Falkland Islands is an archipelago in the South Atlantic Ocean on the Patagonian Shelf. The principal islands are about 300 miles east of South America's southern Patagonian coast and about 752 miles from the northern tip of the Antarctic Peninsula, at a latitude of about 52°S.",
+            "url" : "/falklandislands"
+        },
+
+
+        {
+            "country" : "France",
+            "photo" : "france.png",
+            "description" : "France, officially the French Republic, is a transcontinental country spanning Western Europe and overseas regions and territories in South America and the Atlantic, Pacific and Indian Oceans. Including all of its territories, France has twelve time zones, the most of any country.",
+            "url" : "/france"
+        },
+
+
+        {
+            "country" : "Gabon",
+            "photo" : "gabon.png",
+            "description" : "Gabon, officially the Gabonese Republic, is a country on the west coast of Central Africa. Located on the equator, Gabon is bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of the Congo on the east and south, and the Gulf of Guinea to the west.",
+            "url" : "/gabon"
+        },
+
+
+        {
+            "country" : "Great Britain",
+            "photo" : "greatbritain.png",
+            "description" : "Great Britain is an island in the North Atlantic Ocean off the northwest coast of continental Europe. With an area of 209,331 km², it is the largest of the British Isles, the largest European island, and the ninth-largest island in the world.",
+            "url" : "/greatbritain"
+        },
+
+        {
+            "country" : "Georgia",
+            "photo" : "georgia.png",
+            "description" : "Georgia is a country located at the intersection of Eastern Europe and Western Asia. It is a part of the Caucasus region, bounded to the west by the Black Sea, to the north and east by Russia, to the south by Turkey and Armenia, and to the southeast by Azerbaijan.",
+            "url" : "/georgia"
+        },
+
+
+        {
+            "country" : "French Guiana",
+            "photo" : "frenchguiana.png",
+            "description" : "French Guiana is an overseas department/region and single territorial collectivity of France on the northern Atlantic coast of South America in the Guianas. It borders Brazil to the east and south and Suriname to the west.",
+            "url" : "/frenchguiana"
+        },
+
+
+        {
+            "country" : "Ghana",
+            "photo" : "ghana.png",
+            "description" : "Ghana, officially the Republic of Ghana, is a country in West Africa. It spans the Gulf of Guinea and the Atlantic Ocean to the south, sharing borders with the Ivory Coast in the west, Burkina Faso in the north, and Togo in the east.",
+            "url" : "/ghana"
+        },
+
+
+        {
+            "country" : "Gambia",
+            "photo" : "gambia.png",
+            "description" : "The Gambia, officially the Republic of The Gambia, is a country in West Africa. It is the smallest country within mainland Africa and is surrounded by Senegal, except for its western coast on the Atlantic Ocean.",
+            "url" : "/gambia"
+        },
+
+
+        {
+            "country" : "Guinea",
+            "photo" : "guinea.png",
+            "description" : "Guinea, officially the Republic of Guinea, is a coastal country in West Africa. Guinea borders the Atlantic Ocean to the west, Guinea-Bissau to the northwest, Senegal to the north, Mali to the northeast, Cote d'Ivoire to the southeast, and Sierra Leone and Liberia to the south.",
+            "url" : "/guinea"
+        },
+
+
+        {
+            "country" : "Equatorial Guinea",
+            "photo" : "equatorialguinea.png",
+            "description" : "Equatorial Guinea, officially the Republic of Equatorial Guinea, is a country on the west coast of Central Africa, with an area of 28,000 square kilometres. Formerly the colony of Spanish Guinea, its post-independence name evokes its location near both the Equator and the Gulf of Guinea.",
+            "url" : "/equatorialguinea"
+        },
+
+        {
+            "country" : "Greece",
+            "photo" : "greece.png",
+            "description" : "Greece, officially the Hellenic Republic, is a country located in Southeast Europe. Its population is approximately 10.7 million as of 2018; Athens is its largest and capital city, followed by Thessaloniki. Situated on the southern tip of the Balkans, Greece is located at the crossroads of Europe, Asia, and Africa.",
+            "url" : "/greece"
+        },
+
+
+        {
+            "country" : "S. Georgia & S. Sandwich Isls.",
+            "photo" : "georgiasandwich.png",
+            "description" : "South Georgia and the South Sandwich Islands is a British Overseas Territory in the southern Atlantic Ocean. It is a remote and inhospitable collection of islands, consisting of South Georgia and a chain of smaller islands known as the South Sandwich Islands.",
+            "url" : "/georgiasandwich"
+        },
+
+
+        {
+            "country" : "Guinea Bissau",
+            "photo" : "guineabissau.png",
+            "description" : "Guinea-Bissau, officially the Republic of Guinea-Bissau, is a country in West Africa that covers 36,125 square kilometres with an estimated population of 1,874,303. It borders Senegal to the north and Guinea to the south-east. Guinea-Bissau was once part of the kingdom of Kaabu, as well as part of the Mali Empire.",
+            "url" : "/guineabissau"
+        },
+
+
+        {
+            "country" : "Guyana",
+            "photo" : "guyana.png",
+            "description" : "Guyana, officially the Co‑operative Republic of Guyana, is a country on the northern mainland of South America and the capital city is Georgetown. Guyana is bordered by the Atlantic Ocean to the north, Brazil to the south and southwest, Venezuela to the west, and Suriname to the east.",
+            "url" : "/guyana"
+        },
+
+
+        {
+            "country" : "Honduras",
+            "photo" : "honduras.png",
+            "description" : "Honduras, officially the Republic of Honduras, is a country in Central America. The republic of Honduras is bordered to the west by Guatemala, to the southwest by El Salvador, to the southeast by Nicaragua, to the south by the Pacific Ocean at the Gulf of Fonseca, and to the north by the Gulf of Honduras, a large inlet of the Caribbean Sea.",
+            "url" : "/honduras"
+        },
+
+
+        {
+            "country" : "Croatia",
+            "photo" : "croatia.png",
+            "description" : "Croatia, officially the Republic of Croatia, is a country at the crossroads of Central and Southeast Europe on the Adriatic Sea. Croatia borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west and southwest.",
+            "url" : "/croatia"
+        },
+
+        {
+            "country" : "Haiti",
+            "photo" : "haiti.png",
+            "description" : "Haiti, officially the Republic of Haiti, and formerly known as Hayti, is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean Sea, to the east of Cuba and Jamaica and south of The Bahamas and the Turks and Caicos Islands.",
+            "url" : "/haiti"
+        },
+
+        {
+            "country" : "Hungary",
+            "photo" : "hungary.png",
+            "description" : "Hungary is a landlocked country in Central Europe. Spanning 93,030 square kilometres of the Carpathian Basin, it is bordered by Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west.",
+            "url" : "/hungary"
+        },
+
+        {
+            "country" : "Canary Islands",
+            "photo" : "canaryislands.png",
+            "description" : "The Canary Islands, also known informally as the Canaries, is a Spanish archipelago in the Atlantic Ocean, in a region known as Macaronesia. At their closest point to the African mainland, they are 100 kilometres west of Morocco. They are the southernmost of the autonomous communities of Spain, and are located in the African Tectonic Plate.",
+            "url" : "/canaryislands"
+        },
+
+        {
+            "country" : "Indonesia",
+            "photo" : "indonesia.png",
+            "description" : "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania between the Indian and Pacific oceans. It consists of over seventeen thousand islands, including Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea.",
+            "url" : "/indonesia"
+        },
+
+        {
+            "country" : "Ireland",
+            "photo" : "ireland.png",
+            "description" : "Ireland is an island in the North Atlantic. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest on Earth.",
+            "url" : "/ireland"
+        },
+
+        {
+            "country" : "Israel",
+            "photo" : "israel.png",
+            "description" : "Israel, officially known as the State of Israel, is a country in Western Asia. It is situated on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea, and shares borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest.",
+            "url" : "/israel"
+        },
+
+        {
+            "country" : "India",
+            "photo" : "india.png",
+            "description" : "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.",
+            "url" : "/india"
+        },
+
+        {
+            "country" : "Iraq",
+            "photo" : "iraq.png",
+            "description" : "Iraq, officially the Republic of Iraq, is a country in Western Asia, bordered by Turkey to the north, Iran to the east, Jordan to the southwest, Syria to the west Kuwait to the southeast and Saudi Arabia to the south. The capital and largest city is Baghdad.",
+            "url" : "/iraq"
+        },
+
+        {
+            "country" : "Iran",
+            "photo" : "iran.png",
+            "description" : "Iran, also called Persia, and officially the Islamic Republic of Iran, is a country in Western Asia. It is bordered to the northwest by Armenia and Azerbaijan, to the north by the Caspian Sea, to the northeast by Turkmenistan, to the east by Afghanistan, to the southeast by Pakistan, to the south by the Persian Gulf and the Gulf of Oman, and to the west by Turkey and Iraq.",
+            "url" : "/iran"
+        },
+
+        {
+            "country" : "Iceland",
+            "photo" : "iceland.png",
+            "description" : "Iceland is a Nordic island country in the North Atlantic Ocean and the most sparsely populated country in Europe. The capital and largest city is Reykjavík. Reykjavík and the surrounding areas in the southwest of the country are home to over two-thirds of the population.",
+            "url" : "/iceland"
+        },
+
+        {
+            "country" : "Italy",
+            "photo" : "italy.png",
+            "description" : "Italy, officially the Italian Republic, is a country consisting of a peninsula delimited by the Alps and several islands surrounding it. Italy is located in the center of the Mediterranean Sea, in Southern Europe, and is also considered part of Western Europe.",
+            "url" : "/italy"
+        },
+
+        {
+            "country" : "Jamaica",
+            "photo" : "jamaica.png",
+            "description" : "Jamaica is an island country situated in the Caribbean Sea. Spanning 10,990 square kilometres in area, it is the third-largest island of the Greater Antilles and the Caribbean. Jamaica lies about 145 kilometres south of Cuba, and 191 kilometres west of Hispaniola; the British Overseas Territory of the Cayman Islands lies some 215 kilometres to the north-west.",
+            "url" : "/jamaica"
+        },
+
+        {
+            "country" : "Jordan",
+            "photo" : "jordan.png",
+            "description" : "Jordan, officially the Hashemite Kingdom of Jordan, is a country in Western Asia. It is situated at the crossroads of Asia, Africa and Europe, within the Levant region, on the East Bank of the Jordan River. Jordan is bordered by Saudi Arabia, Iraq, Syria, Israel and the West Bank of Palestine.",
+            "url" : "/jordan"
+        },
+
+        {
+            "country" : "Japan",
+            "photo" : "japan.png",
+            "description" : "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is bordered on the west by the Sea of Japan, and extends from the Sea of Okhotsk in the north toward the East China Sea and Taiwan in the south.",
+            "url" : "/japan"
+        },
+
+        {
+            "country" : "Kenya",
+            "photo" : "kenya.png",
+            "description" : "Kenya, officially the Republic of Kenya, is a country in Eastern Africa. At 580,367 square kilometres, Kenya is the world's 48th largest country by total area. With a population of more than 47.6 million people in the 2019 census, Kenya is the 29th most populous country.",
+            "url" : "/kenya"
+        },
+
+        {
+            "country" : "Kyrgyzstan",
+            "photo" : "kyrgyzstan.png",
+            "description" : "The Kyrgyz Republic, commonly known as Kyrgyzstan, is a mountainous landlocked country in Central Asia. Kyrgyzstan is bordered by Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the south, and China to the east. Its capital and largest city is Bishkek.",
+            "url" : "/kyrgyzstan"
+        },
+
+        {
+            "country" : "Cambodia",
+            "photo" : "cambodia.png",
+            "description" : "Cambodia, officially the Kingdom of Cambodia, is a country located in the southern portion of the Indochinese Peninsula in Mainland Southeast Asia. Cambodia spans over 181,035 square kilometres in area and bordering with Thailand to the northwest, Laos to the north, Vietnam to the east, the Gulf of Thailand to the southwest, and maritime border with Indonesia.",
+            "url" : "/cambodia"
+        },
+
+        {
+            "country" : "North Korea",
+            "photo" : "northkorea.png",
+            "description" : "North Korea, officially the Democratic People's Republic of Korea, is a country in East Asia, constituting the northern part of the Korean Peninsula. It borders China and Russia to the north, at the Yalu and Tumen rivers, and South Korea to the south at the Korean Demilitarized Zone.",
+            "url" : "/northkorea"
+        },
+
+        {
+            "country" : "South Korea",
+            "photo" : "southkorea.png",
+            "description" : "South Korea, officially the Republic of Korea, is a country in East Asia, constituting the southern part of the Korean Peninsula and sharing a land border with North Korea. Its western border is formed by the Yellow Sea, while its eastern border is defined by the Sea of Japan.",
+            "url" : "/southkorea"
+        },
+
+        {
+            "country" : "Kuwait",
+            "photo" : "kuwait.png",
+            "description" : "Kuwait, officially the State of Kuwait, is a country in Western Asia. It is situated in the northern edge of Eastern Arabia at the tip of the Persian Gulf, bordering Iraq to the north and Saudi Arabia to the south. Kuwait also shares maritime borders with Iran. Kuwait has a coastal length of approximately 500 km.",
+            "url" : "/kuwait"
+        },
+
+        {
+            "country" : "Kazakhstan",
+            "photo" : "kazakhstan.png",
+            "description" : "Kazakhstan, officially the Republic of Kazakhstan, is a country in Central Asia with a land area of 2,724,900 square kilometres; it has borders with Russia in the north, China in the east, and Kyrgyzstan, Uzbekistan, and Turkmenistan in the south. The capital is Nur-Sultan, formerly known as Astana.",
+            "url" : "/kazakhstan"
+        },
+
+        {
+            "country" : "Laos",
+            "photo" : "laos.png",
+            "description" : "Laos, officially the Lao People's Democratic Republic, is a socialist state and the only landlocked country in Southeast Asia. At the heart of the Indochinese Peninsula, Laos is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast and Thailand to the west and southwest.",
+            "url" : "/laos"
+        },
+
+        {
+            "country" : "Sri Lanka",
+            "photo" : "srilanka.png",
+            "description" : "Sri Lanka, formerly known as Ceylon, and officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia. It lies in the Indian Ocean, southwest of the Bay of Bengal, and southeast of the Arabian Sea; it is separated from the Indian subcontinent by the Gulf of Mannar and the Palk Strait.",
+            "url" : "/srilanka"
+        },
+
+        {
+            "country" : "Liberia",
+            "photo" : "liberia.png",
+            "description" : "Liberia, officially the Republic of Liberia, is a country on the West African coast. It is bordered by Sierra Leone to its northwest, Guinea to its north, Ivory Coast to its east, and the Atlantic Ocean to its south and southwest. It has a population of around 5 million and covers an area of 111,369 square kilometers.",
+            "url" : "/liberia"
+        },
+
+        {
+            "country" : "Lesotho",
+            "photo" : "lesotho.png",
+            "description" : "Lesotho, officially the Kingdom of Lesotho, is an enclaved country surrounded entirely by South Africa. It is by far the largest of the world's three independent states completely surrounded by the territory of another country, with Vatican City and San Marino being the other two.",
+            "url" : "/lesotho"
+        },
+
+        {
+            "country" : "Lithuania",
+            "photo" : "lithuania.png",
+            "description" : "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Russia to the southwest.",
+            "url" : "/lithuania"
+        },
+
+        {
+            "country" : "Luxembourg",
+            "photo" : "luxembourg.png",
+            "description" : "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU.",
+            "url" : "/luxembourg"
+        },
+
+        {
+            "country" : "Latvia",
+            "photo" : "latvia.png",
+            "description" : "Latvia, officially known as the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west.",
+            "url" : "/latvia"
+        },
+
+        {
+            "country" : "Libya",
+            "photo" : "libya.png",
+            "description" : "Libya, officially the State of Libya, is a country in the Maghreb region in North Africa bordered by the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast, Chad to the south, Niger to the southwest, Algeria to the west, Tunisia to the northwest, and maritime borders with Malta and Greece.",
+            "url" : "/libya"
+        },
+
+        {
+            "country" : "Morocco",
+            "photo" : "morocco.png",
+            "description" : "Morocco, officially the Kingdom of Morocco, is the northwesternmost country in the Maghreb region of North Africa. It overlooks the Mediterranean Sea to the north and the Atlantic Ocean to the west, and has land borders with Algeria to the east, and the disputed territory of Western Sahara to the south.",
+            "url" : "/morocco"
+        },
+
+        {
+            "country" : "Moldova",
+            "photo" : "moldova.png",
+            "description" : "Moldova, officially the Republic of Moldova, is a landlocked country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. Additionally, the unrecognised state of Transnistria, internationally recognised as part of Moldova, lies across the Dniester on the country's eastern Ukrainian border.",
+            "url" : "/moldova"
+        },
+
+        {
+            "country" : "Montenegro",
+            "photo" : "montenegro.png",
+            "description" : "Montenegro is a country in Southeastern Europe. It is located on the Adriatic Sea and is a part of the Balkans, sharing borders with Serbia to the northeast, Bosnia and Herzegovina to the north and west, Kosovo to the east, Albania to the southeast, and the Adriatic Sea and Croatia to the southwest.",
+            "url" : "/montenegro"
+        },
+
+        {
+            "country" : "Madagascar",
+            "photo" : "madagascar.png",
+            "description" : "Madagascar, officially the Republic of Madagascar, and previously known as the Malagasy Republic, is an island country in the Indian Ocean, approximately 400 kilometres off the coast of East Africa across the Mozambique Channel. At 592,800 square kilometres Madagascar is the world's second-largest island country, after Indonesia.",
+            "url" : "/madagascar"
+        },
+
+        {
+            "country" : "Macedonia",
+            "photo" : "macedonia.png",
+            "description" : "Macedonia is a geographic and former administrative region of Greece, in the southern Balkans. Macedonia is the largest and second-most-populous Greek geographic region, with a population of 2.38 million in 2017. It is highly mountainous, with most major urban centres such as Thessaloniki and Kavala being concentrated on its southern coastline.",
+            "url" : "/macedonia"
+        },
+
+        {
+            "country" : "Mali",
+            "photo" : "mali.png",
+            "description" : "Mali, officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of over 1,240,000 square kilometres. The population of Mali is 19.1 million. 67% of its population was estimated to be under the age of 25 in 2017.",
+            "url" : "/mali"
+        },
+
+        {
+            "country" : "Myanmar",
+            "photo" : "myanmar.png",
+            "description" : "Myanmar officially the Republic of the Union of Myanmar and formerly known as Burma, is a country in Southeast Asia. Myanmar is bordered by Bangladesh and India to its northwest, China to its northeast, Laos and Thailand to its east and southeast, and the Andaman Sea and the Bay of Bengal to its south and southwest.",
+            "url" : "/myanmar"
+        },
+
+        {
+            "country" : "Mongolia",
+            "photo" : "mongolia.png",
+            "description" : "Mongolia is a landlocked country in East Asia. It is located by bordering between Russia, to the north and China, to the south, where it neighbours the Inner Mongolia Autonomous Region. It covers an area of 1,564,116 square kilometres, with a population of just 3.3 million, making it the world's most sparsely populated sovereign nation.",
+            "url" : "/mongolia"
+        },
+
+        {
+            "country" : "Mauritania",
+            "photo" : "mauritania.png",
+            "description" : "Mauritania, officially the Islamic Republic of Mauritania, is a sovereign state in Northwest Africa. It is bordered by the Atlantic Ocean to the west, Western Sahara to the north and northwest, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest.",
+            "url" : "/mauritania"
+        },
+
+        {
+            "country" : "Malawi",
+            "photo" : "malawi.png",
+            "description" : "Malawi, officially the Republic of Malawi, is a landlocked country in Southeastern Africa that was formerly known as Nyasaland. It is bordered by Zambia to the west, Tanzania to the north and northeast, and Mozambique to the east, south and southwest.",
+            "url" : "/malawi"
+        },
+
+        {
+            "country" : "Malaysia",
+            "photo" : "malaysia.png",
+            "description" : "Malaysia is a country in Southeast Asia. The federal constitutional monarchy consists of thirteen states and three federal territories, separated by the South China Sea into two regions, Peninsular Malaysia and Borneo's East Malaysia.",
+            "url" : "/malaysia"
+        },
+
+        {
+            "country" : "Mozambique",
+            "photo" : "mozambique.png",
+            "description" : "Mozambique, officially the Republic of Mozambique, is a country located in Southeastern Africa bordered by the Indian Ocean to the east, Tanzania to the north, Malawi and Zambia to the northwest, Zimbabwe to the west, and Eswatini and South Africa to the southwest.",
+            "url" : "/mozambique"
+        },
+
+        {
+            "country" : "Namibia",
+            "photo" : "namibia.png",
+            "description" : "Namibia, officially the Republic of Namibia, is a country in Southern Africa. Its western border is the Atlantic Ocean; it shares land borders with Zambia and Angola to the north, Botswana to the east and South Africa to the south and east.",
+            "url" : "/namibia"
+        },
+
+        {
+            "country" : "New Caledonia (French)",
+            "photo" : "newcaledonia.png",
+            "description" : "New Caledonia is a sui generis collectivity of overseas France in the southwest Pacific Ocean, south of Vanuatu, about 1,210 km east of Australia, and 17,000 km from Metropolitan France.",
+            "url" : "/newcaledonia"
+        },
+
+        {
+            "country" : "Niger",
+            "photo" : "niger.png",
+            "description" : "Niger or the Niger, officially the Republic of the Niger, is a landlocked country in West Africa named after the Niger River. Niger is a unitary state bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest.",
+            "url" : "/niger"
+        },
+
+        {
+            "country" : "Nigeria",
+            "photo" : "nigeria.png",
+            "description" : "Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa. It is the most populous country in Africa; geographically situated between the Sahel to the north, and the Gulf of Guinea to the south in the Atlantic Ocean; covering an area of 923,769 kilometres, with a population of over 211 million.",
+            "url" : "/nigeria"
+        },
+
+        {
+            "country" : "Nicaragua",
+            "photo" : "nicaragua.png",
+            "description" : "Nicaragua, officially the Republic of Nicaragua, is the largest country in the Central American isthmus, bordered by Honduras to the northwest, the Caribbean to the east, Costa Rica to the south, and the Pacific Ocean to the southwest.",
+            "url" : "/nicaragua"
+        },
+
+        {
+            "country" : "Netherlands",
+            "photo" : "netherlands.png",
+            "description" : "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands.",
+            "url" : "/netherlands"
+        },
+
+        {
+            "country" : "Norway",
+            "photo" : "norway.png",
+            "description" : "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe, the mainland territory of which comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of Norway.",
+            "url" : "/norway"
+        },
+
+        {
+            "country" : "Nepal",
+            "photo" : "nepal.png",
+            "description" : "Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain, bordering Tibet of China to the north, and India in the south, east, and west, while it is narrowly separated from Bangladesh by the Siliguri Corridor, and from Bhutan by the Indian state of Sikkim.",
+            "url" : "/nepal"
+        },
+
+        {
+            "country" : "New Zealand",
+            "photo" : "newzealand.png",
+            "description" : "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island—and more than 700 smaller islands, covering a total area of 268,021 square kilometres.",
+            "url" : "/newzealand"
+        },
+
+        {
+            "country" : "Oman",
+            "photo" : "oman.png",
+            "description" : "Oman, officially the Sultanate of Oman, is a country on the southeastern coast of the Arabian Peninsula in Western Asia. Formerly a maritime empire, Oman is the oldest continuously independent state in the Arab world.",
+            "url" : "/oman"
+        },
+
+        {
+            "country" : "Panama",
+            "photo" : "panama.png",
+            "description" : "Panama, officially the Republic of Panama, is a transcontinental country in Central America and South America, bordered by Costa Rica to the west, Colombia to the southeast, the Caribbean Sea to the north, and the Pacific Ocean to the south.",
+            "url" : "/panama"
+        },
+
+        {
+            "country" : "Peru",
+            "photo" : "peru.png",
+            "description" : "Peru, officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean.",
+            "url" : "/peru"
+        },
+
+        {
+            "country" : "Papua New Guinea",
+            "photo" : "papuanewguinea.png",
+            "description" : "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia. Its capital, located along its southeastern coast, is Port Moresby.",
+            "url" : "/papuanewguinea"
+        },
+
+        {
+            "country" : "Philippines",
+            "photo" : "philippines.png",
+            "description" : "The Philippines, officially the Republic of the Philippines, is an archipelagic island country in Southeast Asia. It is situated in the western Pacific Ocean, and consists of about 7,640 islands, that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao.",
+            "url" : "/philippines"
+        },
+
+        {
+            "country" : "Pakistan",
+            "photo" : "pakistan.png",
+            "description" : "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world's fifth-most populous country, with a population exceeding 225.2 million, and has the world's second-largest Muslim population. Pakistan is the 33rd-largest country by area, spanning 881,913 square kilometres.",
+            "url" : "/pakistan"
+        },
+
+        {
+            "country" : "Poland",
+            "photo" : "poland.png",
+            "description" : "Poland, officially the Republic of Poland, is a country located in Central Europe. It is divided into 16 administrative provinces, covering an area of 312,696 km², and has a largely temperate seasonal climate. Poland has a population of nearly 38.5 million people, and is the fifth-most populous member state of the European Union.",
+            "url" : "/poland"
+        },
+
+        {
+            "country" : "Puerto Rico",
+            "photo" : "puertorico.png",
+            "description" : "Puerto Rico, officially the Commonwealth of Puerto Rico is a Caribbean island and unincorporated territory of the United States. It is located in the northeast Caribbean Sea, approximately 1,000 miles southeast of Miami, Florida. The Commonwealth is an archipelago among the Greater Antilles located between the Dominican Republic and the U.S.",
+            "url" : "/puertorico"
+        },
+
+        {
+            "country" : "Palestine",
+            "photo" : "palestine.png",
+            "description" : "Palestine, officially recognized as the State of Palestine by the United Nations and other entities, is a de jure sovereign state in Western Asia officially governed by the Palestine Liberation Organization and claiming the West Bank and Gaza Strip with Jerusalem as the designated capital; in practice, however, only partial administrative control is held over the 167 'islands' in the West Bank, and Gaza is ruled by a rival government.",
+            "url" : "/palestine"
+        },
+
+        {
+            "country" : "Portugal",
+            "photo" : "portugal.png",
+            "description" : "Portugal, officially the Portuguese Republic, is a country whose mainland is located on the Iberian Peninsula, in Southwestern Europe, and whose territory also includes the Atlantic archipelagos of the Azores and Madeira.",
+            "url" : "/portugal"
+        },
+
+        {
+            "country" : "Paraguay",
+            "photo" : "paraguay.png",
+            "description" : "Paraguay, officially the Republic of Paraguay, is a country in South America. It is bordered by Argentina to the south and southwest, Brazil to the east and northeast, and Bolivia to the northwest. It has a population of 7 million, nearly 3 million of which live in the capital and largest city of Asunción, and its surrounding metro.",
+            "url" : "/paraguay"
+        },
+
+        {
+            "country" : "Quatar",
+            "photo" : "quatar.png",
+            "description" : "Qatar, officially the State of Qatar, is a country located in Western Asia, occupying the small Qatar Peninsula on the northeastern coast of the Arabian Peninsula. Its sole land border is with neighbouring Gulf Cooperation Council monarchy Saudi Arabia to the south, with the rest of its territory surrounded by the Persian Gulf.",
+            "url" : "/quatar"
+        },
+
+        {
+            "country" : "Romania",
+            "photo" : "romania.png",
+            "description" : "Romania is a country at the confluence of Central, Eastern and Southeastern Europe. It borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the southwest, Moldova to the east and the Black Sea to the southeast.",
+            "url" : "/romania"
+        },
+
+        {
+            "country" : "Serbia",
+            "photo" : "serbia.png",
+            "description" : "Serbia, officially the Republic of Serbia is a country in Central and Southeast Europe. It is situated at the crossroads of the Pannonian Plain and the Balkans, bordering Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest; while claiming a border with Albania through the disputed territory of Kosovo.",
+            "url" : "/serbia"
+        },
+
+        {
+            "country" : "Russia",
+            "photo" : "russia.png",
+            "description" : "Russia, or the Russian Federation, is a transcontinental country spanning Eastern Europe and Northern Asia. It is the largest country in the world by area, covering over 17 million square kilometres, and encompassing more than one-eighth of Earth's inhabited land area.",
+            "url" : "/russia"
+        },
+
+        {
+            "country" : "Rwanda",
+            "photo" : "rwanda.png",
+            "description" : "Rwanda, officially the Republic of Rwanda, is a landlocked country in the Great Rift Valley, where the African Great Lakes region and East Africa converge. Located a few degrees south of the Equator, Rwanda is bordered by Uganda, Tanzania, Burundi, and the Democratic Republic of the Congo.",
+            "url" : "/rwanda"
+        },
+
+        {
+            "country" : "Saudi Arabia",
+            "photo" : "saudiarabia.png",
+            "description" : "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country in Western Asia. It spans the vast majority of the Arabian Peninsula, with a land area of approximately 2,150,000 km². Saudi Arabia is the largest country in the Middle East, and the second-largest country in the Arab world.",
+            "url" : "/saudiarabia"
+        },
+
+        {
+            "country" : "Solomon Islands",
+            "photo" : "solomonislands.png",
+            "description" : "Solomon Islands is a sovereign country consisting of six major islands and over 900 smaller islands in Oceania, to the east of Papua New Guinea and northwest of Vanuatu. It has a land area of 28,400 square kilometres, and a population of 652,858. Its capital, Honiara, is located on the largest island, Guadalcanal.",
+            "url" : "/solomonislands"
+        },
+
+        {
+            "country" : "Sudan",
+            "photo" : "sudan.png",
+            "description" : "Sudan, officially the Republic of the Sudan, is a country in Northeast Africa. Sudan borders Egypt to the north, Libya to the northwest, Chad to the west, the Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east, and the Red Sea to the northeast.",
+            "url" : "/sudan"
+        },
+
+        {
+            "country" : "Sweden",
+            "photo" : "sweden.png",
+            "description" : "Sweden, officially the Kingdom of Sweden, is a Nordic country in Northern Europe. It borders Norway to the west and north, Finland to the east, and is connected to Denmark in the southwest by a bridge-tunnel across the Öresund Strait.",
+            "url" : "/sweden"
+        },
+
+        {
+            "country" : "Slovenia",
+            "photo" : "slovenia.png",
+            "description" : "Slovenia, officially the Republic of Slovenia, is a country in Central Europe. It is bordered by Italy to the west, Austria to the north, Hungary to the northeast, Croatia to the southeast, and the Adriatic Sea to the southwest.",
+            "url" : "/slovenia"
+        },
+
+        {
+            "country" : "Slovakia",
+            "photo" : "slovakia.png",
+            "description" : "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the southwest, and the Czech Republic to the northwest.",
+            "url" : "/slovakia"
+        },
+
+        {
+            "country" : "Sierra Leone",
+            "photo" : "sierraleone.png",
+            "description" : "Sierra Leone, officially the Republic of Sierra Leone, informally Salone, is a country on the southwest coast of West Africa. It is bordered by Liberia to the southeast and Guinea to the northeast. Sierra Leone has a tropical climate with a diverse environment ranging from savanna to rainforests, a total area of 71,740 km² and a population of 7,092,113 as of the 2015 census.",
+            "url" : "/sierraleone"
+        },
+
+        {
+            "country" : "Senegal",
+            "photo" : "senegal.png",
+            "description" : "Senegal, officially the Republic of Senegal, is a country in West Africa. Senegal is bordered by Mauritania in the north, Mali to the east, Guinea to the southeast, and Guinea-Bissau to the southwest.",
+            "url" : "/senegal"
+        },
+
+        {
+            "country" : "Somalia",
+            "photo" : "somalia.png",
+            "description" : "Somalia, officially the Federal Republic of Somalia, is a country in the Horn of Africa. It is bordered by Ethiopia to the west, Djibouti to the Northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest. Somalia has the longest coastline on Africa's mainland.",
+            "url" : "/somalia"
+        },
+
+        {
+            "country" : "Suriname",
+            "photo" : "suriname.png",
+            "description" : "Suriname or Surinam, officially known as the Republic of Suriname, is a country on the northeastern Atlantic coast of South America. It is bordered by the Atlantic Ocean to the north, French Guiana to the east, Guyana to the west, and Brazil to the south.",
+            "url" : "/suriname"
+        },
+
+        {
+            "country" : "South Sudan",
+            "photo" : "southsudan.png",
+            "description" : "South Sudan, officially known as the Republic of South Sudan, is a landlocked country in east/central Africa. It is bordered to the east by Ethiopia, to the north by Sudan, to the west by the Central African Republic, to the southwest by Democratic Republic of the Congo, to the south by Uganda and to the southeast by Kenya.",
+            "url" : "/southsudan"
+        },
+
+        {
+            "country" : "El Salvador",
+            "photo" : "elsalvador.png",
+            "description" : "El Salvador, officially the Republic of El Salvador, is a country in Central America. It is bordered on the northeast by Honduras, on the northwest by Guatemala, and on the south by the Pacific Ocean. El Salvador's capital and largest city is San Salvador. The country's population in 2021 is estimated to be 6.8 million.",
+            "url" : "/elsalvador"
+        },
+
+        {
+            "country" : "Syria",
+            "photo" : "syria.png",
+            "description" : "Syria, officially the Syrian Arab Republic, is a country in Western Asia, bordering Lebanon to the southwest, the Mediterranean Sea to the west, Turkey to the north, Iraq to the east, Jordan to the south, and Israel to the southwest. Its capital and largest city is Damascus.",
+            "url" : "/syria"
+        },
+
+        {
+            "country" : "Swaziland",
+            "photo" : "swaziland.png",
+            "description" : "Swaziland, officially the Kingdom of Eswatini since April 2018, is a landlocked sovereign state in Southern Africa. It is bordered by Mozambique to its northeast and South Africa to its north, west and south. The country and its people take their names from Mswati II, the 19th-century king under whose rule Swazi territory was expanded and unified.",
+            "url" : "/swaziland"
+        },
+
+        {
+            "country" : "Chad",
+            "photo" : "chad.png",
+            "description" : "Chad, officially known as the Republic of Chad, is a country at the crossroads of north-central Africa. Chad is a landlocked country bordered by Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon to the south-west, Nigeria to the southwest, and Niger to the west.",
+            "url" : "/chad"
+        },
+
+        {
+            "country" : "Togo",
+            "photo" : "togo.png",
+            "description" : "Togo, officially the Togolese Republic, is a country in West Africa. It is bordered by Ghana to the west, Benin to the east and Burkina Faso to the north. The country extends south to the Gulf of Guinea, where its capital and largest city Lomé is located.",
+            "url" : "/togo"
+        },
+
+        {
+            "country" : "Thailand",
+            "photo" : "thailand.png",
+            "description" : "Thailand, known formerly as Siam and officially as the Kingdom of Thailand, is a country in Southeast Asia. It is located at the centre of the Indochinese Peninsula, spanning 513,120 square kilometres, with a population of almost 70 million people.",
+            "url" : "/thailand"
+        },
+
+        {
+            "country" : "Tadjikistan",
+            "photo" : "tadjikistan.png",
+            "description" : "Tajikistan, officially the Republic of Tajikistan, is a landlocked country in Central Asia. It has an area of 143,100 km² and an estimated population of 9,537,645 people. Its capital and largest city is Dushanbe. It is bordered by Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the north and China to the east.",
+            "url" : "/tadjikistan"
+        },
+
+        {
+            "country" : "East Timor",
+            "photo" : "easttimor.png",
+            "description" : "East Timor or Timor-Leste, officially the Democratic Republic of Timor-Leste, is an island country in Southeast Asia. It comprises the eastern half of the island of Timor, the nearby islands of Atauro and Jaco, and Oecusse, an exclave on the northwestern side of the island surrounded by Indonesian West Timor.",
+            "url" : "/easttimor"
+        },
+
+        {
+            "country" : "Turkmenistan",
+            "photo" : "turkmenistan.png",
+            "description" : "Turkmenistan, also known as Turkmenia, is a landlocked country in Central Asia, bordered by Kazakhstan to the northwest, Uzbekistan to the north, east and northeast, Afghanistan to the southeast, Iran to the south and southwest and the Caspian Sea to the west. Ashgabat is the capital and largest city of the country.",
+            "url" : "/turkmenistan"
+        },
+
+        {
+            "country" : "Tunisia",
+            "photo" : "tunisia.png",
+            "description" : "Tunisia, officially the Republic of Tunisia, is the northernmost country in Africa. It is a part of the Maghreb region of North Africa, and is bordered by Algeria to the west and southwest, Libya to the southeast, and the Mediterranean Sea to the north and east; covering 163,610 km², with a population of 11 million.",
+            "url" : "/tunisia"
+        },
+
+        {
+            "country" : "Turkey",
+            "photo" : "turkey.png",
+            "description" : "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the peninsula of Anatolia in Western Asia, with a smaller portion on East Thrace in Southeast Europe.",
+            "url" : "/turkey"
+        },
+
+        {
+            "country" : "Trinidad and Tobago",
+            "photo" : "trinidadandtobago.png",
+            "description" : "Trinidad and Tobago, officially the Republic of Trinidad and Tobago, is the southernmost island country in the Caribbean and is known for its fossil-fuel wealth. Consisting of the main islands Trinidad and Tobago, and numerous much smaller islands, it is situated 130 kilometres south of Grenada and 11 kilometres off the coast of northeastern Venezuela.",
+            "url" : "/trinidadandtobago"
+        },
+
+        {
+            "country" : "Taiwan",
+            "photo" : "taiwan.png",
+            "description" : "Taiwan, officially the Republic of China, is a country in East Asia. It shares maritime borders with the People's Republic of China to the northwest, Japan to the northeast, and the Philippines to the south.",
+            "url" : "/taiwan"
+        },
+
+        {
+            "country" : "Tanzania",
+            "photo" : "tanzania.png",
+            "description" : "Tanzania, officially the United Republic of Tanzania, is a country in East Africa within the African Great Lakes region. It borders Uganda to the north; Kenya to the northeast; Comoro Islands and the Indian Ocean to the east; Mozambique and Malawi to the south; Zambia to the southwest; and Rwanda, Burundi, and the Democratic Republic of the Congo to the west.",
+            "url" : "/tanzania"
+        },
+
+        {
+            "country" : "Ukraine",
+            "photo" : "ukraine.png",
+            "description" : "Ukraine is a country in Eastern Europe. It is the second-largest country in Europe after Russia, which it borders to the east and north-east. Ukraine also shares borders with Belarus to the north; Poland, Slovakia, and Hungary to the west; Romania and Moldova to the south; and has a coastline along the Sea of Azov and the Black Sea.",
+            "url" : "/ukraine"
+        },
+
+        {
+            "country" : "Uganda",
+            "photo" : "uganda.png",
+            "description" : "Uganda, officially the Republic of Uganda, is a landlocked country in East Africa. It is bordered to the east by Kenya, to the north by South Sudan, to the west by the Democratic Republic of the Congo, to the south-west by Rwanda, and to the south by Tanzania.",
+            "url" : "/uganda"
+        },
+
+        {
+            "country" : "Uruguay",
+            "photo" : "uruguay.png",
+            "description" : "Uruguay, officially the Oriental Republic of Uruguay, is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast; while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast.",
+            "url" : "/uruguay"
+        },
+
+        {
+            "country" : "Uzbekistan",
+            "photo" : "uzbekistan.png",
+            "description" : "Uzbekistan, officially the Republic of Uzbekistan, is a doubly landlocked country in Central Asia. It is surrounded by five countries: Kazakhstan to the north; Kyrgyzstan to the northeast; Tajikistan to the southeast; Afghanistan to the south, Turkmenistan to the south-west.",
+            "url" : "/uzbekistan"
+        },
+
+        {
+            "country" : "Venezuela",
+            "photo" : "venezuela.png",
+            "description" : "Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America, consisting of a continental landmass and many islands and islets in the Caribbean Sea. It has a territorial extension of 916,445 km², and the population of Venezuela was estimated at 28 million in 2019.",
+            "url" : "/venezuela"
+        },
+
+        {
+            "country" : "Vietnam",
+            "photo" : "vietnam.png",
+            "description" : "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country.",
+            "url" : "/vietnam"
+        },
+
+        {
+            "country" : "Vanuatu",
+            "photo" : "vanuatu.png",
+            "description" : "Vanuatu, officially the Republic of Vanuatu, is an island country located in the South Pacific Ocean. The archipelago, which is of volcanic origin, is 1,750 kilometres east of northern Australia, 540 kilometres northeast of New Caledonia, east of New Guinea, southeast of the Solomon Islands, and west of Fiji.",
+            "url" : "/vanuatu"
+        },
+
+        {
+            "country" : "South Africa",
+            "photo" : "southafrica.png",
+            "description" : "South Africa, officially the Republic of South Africa, is the southernmost country in Africa. With over 60 million people, it is the world's 23rd-most populous nation and covers an area of 1,221,037 square kilometres. South Africa has three capital cities: executive Pretoria, judicial Bloemfontein and legislative Cape Town.",
+            "url" : "/southafrica"
+        },
+
+        {
+            "country" : "Zambia",
+            "photo" : "zambia.png",
+            "description" : "Zambia, officially the Republic of Zambia, is a landlocked country at the crossroads of Central, Southern and East Africa. Its neighbours are the Democratic Republic of the Congo to the north, Tanzania to the north-east, Malawi to the east, Mozambique to the southeast, Zimbabwe and Botswana to the south, Namibia to the southwest, and Angola to the west.",
+            "url" : "/zambia"
+        },
+
+        {
+            "country" : "Zimbabwe",
+            "photo" : "zimbabwe.png",
+            "description" : "Zimbabwe, officially the Republic of Zimbabwe, is a landlocked country located in Southeast Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa to the south, Botswana to the south-west, Zambia to the north, and Mozambique to the east. The capital and largest city is Harare.",
+            "url" : "/zimbabwe"
+        }
+    ]
+}

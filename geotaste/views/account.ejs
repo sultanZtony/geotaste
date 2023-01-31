@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+	<navbar>
+		<%-include('./partials/navbar.ejs')%>
+	  </navbar>
+	  <header>
+		<%-include('./partials/header.ejs')%>
+	  </header>
+    <head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<link rel="stylesheet" href="../resources/styles/login.css">
+		<link rel="stylesheet" href="resources/styles/account.css">
+	</head>
+		<body>
+			<h1 class="title">
+				Profile Page
+			  </h1>
+			<div class="container">
+				<div>
+					<b>
+						<%
+						if (error) {
+							var buttons = 'You need to login or sign up before checking the account page';
+							%> <%- buttons %>
+              			<% } %>
+					</b>
+				</div>
+				<div class="center p1 animate" <%- hidden%> id=first_name>
+					<label for="uname"><b>Welcome </b></label>
+					<!-- <div class=center-text>ss -->
+						<b>
+							<%- First_name %>
+							<%- Last_name %>
+							!
+						</b>		
+					<!-- </div> -->
+					<br><br>
+				</div>
+				<div class="center-text p3" <%- hidden%> id=first_name>
+					<label for="uname"><b>First Name: </b></label>
+					<!-- <div class=center-text> -->
+						<%- First_name %>
+					<!-- </div> -->
+					<br><br>
+				</div>
+				<div  class="center-text p3" <%- hidden%> id=lastname>
+					<label for="uname"><b>Last Name: </b></label>
+					<!-- <div> -->
+						<%- Last_name %>
+					<!-- </div> -->
+					<br><br>
+				</div>
+				<div  class="center-text p3" <%- hidden%> id=email> 
+					<!-- make an id with div -->
+					<label for="uname"><b>Email Address: </b></label>
+					<!-- <div> -->
+						<%- Email %>
+					<!-- </div> -->
+					<br><br>
+				</div>
+				<div  class="center-text p3" <%- hidden%> id=uname> 
+					<!-- make an id with div -->
+					<label for="uname"><b> Username: </b></label>
+					<!-- <div> -->
+						<%- Username %>
+					<!-- </div> -->
+					<br><br>
+				</div>
+				<label>
+				</label>
+			</div>
+
+
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    </body>
+</html>

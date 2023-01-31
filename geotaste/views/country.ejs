@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<%-include('./partials/navbar.ejs')%>
+<body>
+    <%# Heading %>
+    <div class = "container" style="margin-bottom: 25px; margin: auto;">
+        <h1>
+            <small class='text-muted'>Projects from</small>
+            <%=country%>
+        </h1>
+    </div>
+    
+
+    <%#Picture and description%>
+    <div class="row">
+        <div class="container col-sm-10" style="margin-bottom: 50px;">
+            <%if(country_info){
+                var img_src =
+                    "<img src='"+country_info.photo+"' width='500px' alt='Country Photo'>";
+                var name =
+                    "<h5 class='card-title'>"+country+"</h5>";
+                var desc = 
+                    "<p class='card-text'>"+country_info.description+"</p>";
+                var country_url =
+                    "<a href='"+country_info.url+"' class='btn btn-primary'>Read more on Wikipedia</a>";
+                
+                var country_card = 
+                    "<div class='card' style='width: auto; flex-direction: row;'>"
+                    +img_src 
+                    +"<div class='card-body'>"
+                    +name+desc+country_url
+                    +"</div></div>";
+            }else{
+                country_card = "<br><h1 style='text-align:center'>"+country+" is not a country</h1>";
+            }%>
+            <%-country_card%>
+
+        
+        </div>
+    </div>
+
+    <%#List of songs%>
+    <div class="container">
+        <%
+        var songs = '';
+        count = 0;
+        if (song_list.length > 0 && country_info) {
+        
+            song_list.forEach(item => {
+
+                if(count==0) songs += '<div class="row">';
+                songs += 
+                    '<div class="col" align="center" style="margin-bottom: 3%;">'
+                        +'<a href="/music?song_choice='+item.discogs_id+'">';
+
+                            if(item.cover_art)songs += '<img style=" border-radius: 25%; width:150px; height:150px" src="'+item.cover_art+'">';
+                            else songs += '<img width="150px" height="150px" src="../resources/images/image_unava.png">';
+                        songs+='</a>'
+                        +'<h6 style="text-align: center">'
+                            +item.name
+                        +'</h6>'
+                    +'</div>';
+
+                
+                count++;
+
+                if(count==5){
+                    songs += '</div>';
+                    count = 0;
+                }
+                    
+
+                /*songs += '<a href="'
+                + "http://localhost:3000/music?song_choice=" + item.discogs_id +'" class="list-group-item list-group-item-action" style="width: auto; flex-direction: row"><div class="image-parent" style="width: 50px;">
+                    <img class="image-fluid" src="' + item.cover_art + '"></div><p style="font-weight: bold">' + count + '. ' + item.name + ' - <small class="text-muted">' + item.artist + '</small></p></a>';
+                */
+            });
+            
+        }else if(country_info) {
+            songs = "<h1 style='text-align: center'>No music data for "+country+"</h1>";
+        }
+        %>
+        <%- songs %>
+
+        <div class="col">
+            <a href="/">
+                <p style="text-align: center; color: white; background-color: grey; border-radius: 10%; padding: 1%;">
+                    Back to Map
+                </p>
+            </a>
+        </div>
+    </div>
+
+    <%-include('./partials/footer.ejs')%>
+
+</body>
+</html>

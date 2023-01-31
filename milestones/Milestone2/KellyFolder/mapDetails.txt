@@ -1,0 +1,9 @@
+Map Plan:
+Use simple map’s outline of an interactive map as a basis https://simplemaps.com/world-examples 
+We want to be able to navigate the map by clicking on a specific region, so we will separate the world map into sections and then link the music specific to each region.
+Will work with Filip, Mackenzie, and Alex to connect the APIs used to find region-specific music to the correct location on the map.
+Sorting Music Geographically:
+Will use the API from discogs and possibly spotify to search and provide music
+Will likely sort music regionally by filtering songs by the location of the record label.
+There will need to be some sort of database to store the record label location so that when clicked, the region that is desired will be compared and used to filter through said database.
+

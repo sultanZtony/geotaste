@@ -1,0 +1,184 @@
+<!doctype html>
+<html class="no-js" lang="">
+<%#img unavailable src: https://thenounproject.com/term/image-unavailable/908418/%>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link type="text/css" href="https://geotaste-storage.s3.us-east-2.amazonaws.com/styles/music.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	
+</head>
+
+<body>
+	<%-include('./partials/navbar.ejs')%>
+
+	<div class="container">
+		<br/>
+		<div class="row">
+			<div class ="col-5">
+				<iframe id="songView" 
+				<%
+				if(spotify){
+				var opts = 'src = https://open.spotify.com/embed/album/'+spotify;%>
+				<%- opts %>
+				<%}%>	
+				%>
+				width="100%" 
+				height="400px" 
+				frameBorder="0" 
+				style="margin-left: auto; margin-right:0px;"
+				allowfullscreen="" 
+				allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+				</iframe>
+			</div>
+			<div class="col">
+				<table width ="100%" style="text-align: center; font-size: 20px; margin-top: 7%;">
+					<tr>
+						<td>
+							<%
+							var img='';
+							if(cover)
+							img = '<img style="height:150px"src = '+cover+'>';
+							else img = '<img width="150px" height="150px" src="../resources/images/image_unava.png">';
+							%>
+							<%- img %>
+									
+						</td>
+					</tr>
+					<tr>
+						<th style="font-size: 30px">
+							<%if(name)%><%- name%>
+						</th>
+					</tr>
+					<tr>
+						<td>
+							<%if(artist)%><%- artist%>
+						</td>
+					</tr>
+				</table>
+				<table width ="100%" style="text-align: center; font-size: 14px;">
+					<tr>
+						<td>
+							<%if(date){
+								var months = ["Jan","Feb","Mar","April","May","June","July","Aug","Sept","Oct","Nov","Dec"];
+								var temp_date = months[date.getMonth()];
+								temp_date += " "+date.getDate();
+								temp_date += ", "+date.getFullYear(); 
+							}
+							%>
+							<%- temp_date%>	
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<%- label%>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<%- country%>
+						</td>
+					</tr>
+				</table>		
+			</div>
+			<div class="col-sm-2">
+				<a href="javascript:history.back()">
+					<p style="text-align: center; color: white; background-color: grey; border-radius: 10%; padding: 5%;">
+						Back Track
+					</p>
+				</a>
+				<% 
+				var name_adj = country.replace(/ /g, '%20');
+				var backToC ='<a href="/country-id/?country='+name_adj+'">'
+					+'<p style="text-align: center; color: white; background-color: grey; border-radius: 10%; padding: 5%;">Back to Country</p></a>';
+				%>
+				<%- backToC%>
+				<a href="/">
+					<p style="text-align: center; color: white; background-color: grey; border-radius: 10%; padding: 5%;">
+						Back to Map
+					</p>
+				</a>
+			</div>
+		</div>
+		</br>
+
+		<%///More artist
+		var more_songs = '';
+		if(cat_artist.length > 0 && artist != 'Various'){
+			more_songs = '<div class="row">'
+							+'<h3>More from '+ artist+'</h3>'
+						+'</div>'
+						+'<div class="row" style="height: 200px; margin-bottom: 2%;">'
+						+'<div style="  width: 75%; position: absolute; white-space: nowrap; overflow-y: hidden; overflow-x: scroll;">'
+			cat_artist.forEach(item => {
+				more_songs += 
+					'<div class ="col-sm-3" style="display:inline-block;">'
+						+'<a href="/music?song_choice='+item.discogs_id+'">';
+						
+						if(item.cover_art) more_songs += '<img src ="'+item.cover_art+'">';
+						else more_songs += '<img width="150px" height="150px" src="../resources/images/image_unava.png">';
+						more_songs += '<h6 style="color: black;">';
+						if(item.name.length > 20)  more_songs += item.name.substring(0,20)+'...';
+						else more_songs += item.name;
+					more_songs+='</h6></a></div>';
+			});
+			more_songs += '</div></div>';
+		}
+		%>
+		<%-more_songs%>
+		
+		<%//more label
+		var more_songs = '';
+		if(cat_label.length > 0){
+			more_songs = '<div class="row">'
+							+'<h3>More from label ('+label+')</h3>'
+						+'</div>'
+						+'<div class="row" style="height: 200px; margin-bottom: 2%;">'
+						+'<div style="  width: 75%; position: absolute; white-space: nowrap; overflow-y: hidden; overflow-x: scroll;">'
+			cat_label.forEach(item => {
+				more_songs += 
+					'<div class ="col-sm-3" style="display:inline-block;">'
+						+'<a href="/music?song_choice='+item.discogs_id+'">';
+						
+						if(item.cover_art) more_songs += '<img src ="'+item.cover_art+'">';
+						else more_songs += '<img width="150px" height="150px" src="../resources/images/image_unava.png">';
+						more_songs += '<h6 style="color: black;">';
+						if(item.name.length > 20)  more_songs += item.name.substring(0,20)+'...';
+						else more_songs += item.name;
+					more_songs+='</h6></a></div>';
+			});
+			more_songs += '</div></div>';
+		}
+		%>
+		<%-more_songs%>
+		
+		<%//more country era
+		var more_songs = '';
+		if(cat_era.length > 0){
+			more_songs = '<div class="row">'
+							+'<h3>More from the Era</h3>'
+						+'</div>'
+						+'<div class="row" style="height: 200px; margin-bottom: 2%;">'
+						+'<div style="  width: 75%;position: absolute; white-space: nowrap; overflow-y: hidden; overflow-x: scroll;">'
+			cat_era.forEach(item => {
+				more_songs += 
+					'<div class ="col-sm-3" style="display:inline-block;">'
+						+'<a href="/music?song_choice='+item.discogs_id+'">';
+							if(item.cover_art) more_songs += '<img src ="'+item.cover_art+'">';
+							else more_songs += '<img width="150px" height="150px" src="../resources/images/image_unava.png">';
+						more_songs += '<h6 style="color: black;">';
+						if(item.name.length > 20)  more_songs += item.name.substring(0,20)+'...';
+						else more_songs += item.name;
+					more_songs+='</h6></a></div>';
+			});
+			more_songs += '</div></div>';
+		}
+		%>
+		<%-more_songs%>
+	</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<%-include('./partials/footer.ejs')%>
+</body>
+</html>
